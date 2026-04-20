@@ -1,4 +1,12 @@
 
+### 📊 Model Evaluation Summary
+
+
+| Model Type | RMSE | MAE | MSE |
+| :--- | :--- | :--- | :--- |
+| **ARIMA (Statistical)** | 0.9180 | 0.2967 | 0.8427 |
+| **LSTM (Deep Learning)** | [Pending] | [Pending] | [Pending] |
+| **Prophet (Additive)** | [Pending] | [Pending] | [Pending] |
 
 
 # Apple Stock Analysis & Forecasting 📈
