@@ -3,7 +3,7 @@
 This repository provides a comprehensive technical analysis and price prediction of Apple Inc. (AAPL) stock using classical statistical methods, deep learning, and additive models.
 
 ## 🚀 Live Interactive Demo
-**[Experience the AI-Powered Dashboard here]([https://nexttoken.app](https://apple-stock-analysis.nexttoken.app/))**
+**[Experience the AI-Powered Dashboard here](https://apple-stock-analysis.nexttoken.app/)**
 > *Note: This interactive dashboard was automatically generated from this repository's logic using NextToken's AI Agent.*
 
 <img width="943" height="439" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c7f4f79a-ea78-4e89-b6f0-71bece784b48" />
