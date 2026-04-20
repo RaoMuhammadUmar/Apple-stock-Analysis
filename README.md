@@ -152,36 +152,5 @@ apple-stock-analysis/
 │   └── (plots and visual outputs)
 ├── requirements.txt
 └── README.md
-Use code with caution.
-⚙️ How to Run Locally
-bash
-# Clone repo
-git clone https://github.com/your-username/apple-stock-analysis.git
-
-# Navigate into project
-cd apple-stock-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
-Use code with caution.
-🎯 Key Insights
-Stock data is non-stationary, requiring transformation.
-ARIMA works well for linear trends.
-LSTM significantly improves performance for nonlinear patterns.
-Prophet provides business-friendly interpretability.
-🤝 Acknowledgments
-Dataset: Kaggle (Apple Historical Data)
-Dashboard Hosting: Alankar Jain (NextToken)
-📜 Conclusion
-This project demonstrates how multiple forecasting techniques complement each other:
-📊 ARIMA → Reliable statistical baseline
-🤖 LSTM → Best predictive performance
-📅 Prophet → Best interpretability
-Together, they provide a robust hybrid approach to financial forecasting.
-pip install -r requirements.txt
-
 # Run Jupyter Notebook
 jupyter notebook
