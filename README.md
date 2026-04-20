@@ -4,7 +4,7 @@
 This repository provides a comprehensive end-to-end pipeline for analyzing and forecasting Apple Inc. (AAPL) stock prices. It moves from raw data processing to a live, production-ready dashboard.
 
 ## 🚀 Live Interactive Demo
-**[Experience the AI-Powered Dashboard here](https://nexttoken.app)**
+**[Experience the AI-Powered Dashboard here]([https://nexttoken.app](https://apple-stock-analysis.nexttoken.app/))**
 > *Note: This dashboard was automatically generated from this repository's logic using NextToken's AI Agent.*
 
 <img width="943" height="439" alt="Dashboard Overview" src="https://github.com" />
