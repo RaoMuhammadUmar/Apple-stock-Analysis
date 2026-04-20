@@ -1,6 +1,5 @@
-<img width="942" height="437" alt="{7F7C4443-4B9E-4E81-A446-132ACAE3B20D}" src="https://github.com/user-attachments/assets/b8b96d82-9212-405f-9c73-faf26eef523b" />
-<img width="943" height="439" alt="{9B5698B5-B67A-4DB8-B01A-CAFE6A1EC136}" src="https://github.com/user-attachments/assets/c7f4f79a-ea78-4e89-b6f0-71bece784b48" />
-<img width="944" height="429" alt="{D182F4EB-FBA4-48C9-994B-0DCBEA36F2FC}" src="https://github.com/user-attachments/assets/34d2a06f-d1e0-48d1-99de-774a798e7171" />
+
+
 
 # Apple Stock Analysis & Forecasting 📈
 
@@ -17,6 +16,7 @@ This project explores historical Apple stock data (1980–2024) to build and com
 1. **ARIMA**: Statistical approach for time-series stationarity and trend analysis.
 2. **LSTM (Long Short-Term Memory)**: Deep learning architecture to capture long-term dependencies.
 3. **Prophet**: Facebook’s additive model for handling seasonality and holiday effects.
+<img width="942" height="437" alt="{7F7C4443-4B9E-4E81-A446-132ACAE3B20D}" src="https://github.com/user-attachments/assets/b8b96d82-9212-405f-9c73-faf26eef523b" />
 
 ## 🛠️ Libraries & Tools
 * **Data Handling:** `NumPy`, `Pandas`
@@ -24,7 +24,7 @@ This project explores historical Apple stock data (1980–2024) to build and com
 * **Machine Learning:** `Scikit-learn` (MinMaxScaler)
 * **Deep Learning:** `Keras` / `TensorFlow`
 * **Forecasting:** `Statsmodels` (ARIMA), `Prophet`
-
+<img width="943" height="439" alt="{9B5698B5-B67A-4DB8-B01A-CAFE6A1EC136}" src="https://github.com/user-attachments/assets/c7f4f79a-ea78-4e89-b6f0-71bece784b48" />
 ---
 
 ## 🔍 Key Analysis Steps
@@ -44,6 +44,7 @@ The project includes:
 * **Correlation Heatmaps:** Analyzing relationships between Open, High, Low, and Close prices.
 * **Residual Plots:** Diagnostic checks for model bias.
 * **Prediction vs. Actual:** Comparative plots for LSTM and ARIMA accuracy.
+<img width="944" height="429" alt="{D182F4EB-FBA4-48C9-994B-0DCBEA36F2FC}" src="https://github.com/user-attachments/assets/34d2a06f-d1e0-48d1-99de-774a798e7171" />
 
 ---
 
