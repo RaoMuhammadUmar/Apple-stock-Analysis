@@ -10,11 +10,11 @@ A complete **end-to-end time series forecasting project** that analyzes and pred
 ---
 
 ## 🚀 Live Interactive Dashboard  
-👉 **[Explore the AI-Powered Dashboard](https://apple-stock-analysis.nexttoken.app/)**  
+👉 **[Explore the AI-Powered Dashboard](https://nexttoken.app)**  
 
 > This dashboard was automatically generated using NextToken’s AI agent, transforming the notebook logic into a fully interactive experience.
 
-![Dashboard Overview](https://github.com/user-attachments/assets/c7f4f79a-ea78-4e89-b6f0-71bece784b48)
+![Dashboard Overview](https://github.com)
 
 ---
 
@@ -35,6 +35,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ## 📊 Model Comparison Summary  
 
+
 | Model | Performance | Strength |
 |------|------------|---------|
 | **ARIMA (2,1,2)** | RMSE: **0.91** | Strong statistical baseline |
@@ -50,7 +51,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 - Features: Open, High, Low, Close  
 - No missing values (clean dataset)
 
-![Price Performance Chart](https://github.com/user-attachments/assets/34d2a06f-d1e0-48d1-99de-774a798e7171)
+![Price Performance Chart](https://github.com)
 
 ---
 
@@ -88,7 +89,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 - Batch Size: 32  
 - Final Validation Loss: **4.2389e-04**
 
-![Forecasting Results](https://github.com/user-attachments/assets/b8b96d82-9212-405f-9c73-faf26eef523b)
+![Forecasting Results](https://github.com)
 
 ✔ Best at capturing **complex nonlinear price movements**
 
@@ -135,6 +136,8 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 ### 🌐 Deployment  
 - NextToken AI Dashboard  
 
+---
+
 ## 📂 Project Structure  
 
 ```text
@@ -152,36 +155,3 @@ apple-stock-analysis/
 │   └── (plots and visual outputs)
 ├── requirements.txt
 └── README.md
-Use code with caution.
-⚙️ How to Run Locally
-bash
-# Clone repo
-git clone https://github.com/your-username/apple-stock-analysis.git
-
-# Navigate into project
-cd apple-stock-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
-Use code with caution.
-🎯 Key Insights
-Stock data is non-stationary, requiring transformation.
-ARIMA works well for linear trends.
-LSTM significantly improves performance for nonlinear patterns.
-Prophet provides business-friendly interpretability.
-🤝 Acknowledgments
-Dataset: Kaggle (Apple Historical Data)
-Dashboard Hosting: Alankar Jain (NextToken)
-📜 Conclusion
-This project demonstrates how multiple forecasting techniques complement each other:
-📊 ARIMA → Reliable statistical baseline
-🤖 LSTM → Best predictive performance
-📅 Prophet → Best interpretability
-Together, they provide a robust hybrid approach to financial forecasting.
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
