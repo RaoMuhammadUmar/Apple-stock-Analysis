@@ -45,7 +45,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ## 🔍 Methodology & Pipeline  
 
-### 📌 1. Data Loading & Visualization  
+###  1. Data Loading & Visualization  
 - Dataset: Apple historical stock prices  
 - Features: Open, High, Low, Close  
 - No missing values (clean dataset)
@@ -54,16 +54,16 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ---
 
-### 📌 2. Stationarity Testing  
+###  2. Stationarity Testing  
 - **ADF Test Result:**  
   - Statistic: `4.83`  
-  - p-value: `1.0` → ❌ Non-stationary  
+  - p-value: `1.0` →  Non-stationary  
 
 ✔ Applied **first-order differencing**
 
 ---
 
-### 📌 3. Statistical Modeling (ARIMA)  
+###  3. Statistical Modeling (ARIMA)  
 - Model: **ARIMA(2,1,2)**  
 - Ljung-Box p-value: **0.87** (good fit)
 
@@ -76,7 +76,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ---
 
-### 📌 4. Deep Learning Model (LSTM)  
+###  4. Deep Learning Model (LSTM)  
 
 **Architecture:**
 - 2 × LSTM layers (50 units each)  
@@ -94,7 +94,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ---
 
-### 📌 5. Prophet Forecasting  
+###  5. Prophet Forecasting  
 
 - Handles **trend + seasonality + long-term growth**
 - Built on **Stan probabilistic framework**
@@ -106,7 +106,7 @@ This project performs a **comprehensive financial time-series analysis** on Appl
 
 ---
 
-## 📉 Visual Analysis Included  
+## Visual Analysis Included  
 
 - Price trend over time  
 - ACF / PACF plots  
@@ -149,7 +149,7 @@ pip install -r requirements.txt
 # Run Jupyter Notebook
 jupyter notebook
 Use code with caution.
-# 🎯 Key Insights
+#  Key Insights
 Stock data is non-stationary, requiring transformation.
 ARIMA works well for linear trends.
 LSTM significantly improves performance for nonlinear patterns.
@@ -157,11 +157,11 @@ Prophet provides business-friendly interpretability.
 # 🤝 Acknowledgments
 Dataset: Kaggle (Apple Historical Data)
 Dashboard Hosting: Alankar Jain (NextToken)
-# 📜 Conclusion
+#  Conclusion
 This project demonstrates how multiple forecasting techniques complement each other:
-📊 ARIMA → Reliable statistical baseline
-🤖 LSTM → Best predictive performance
-📅 Prophet → Best interpretability
+ ARIMA → Reliable statistical baseline
+ LSTM → Best predictive performance
+ Prophet → Best interpretability
 Together, they provide a robust hybrid approach to financial forecasting.
 pip install -r requirements.txt
 
