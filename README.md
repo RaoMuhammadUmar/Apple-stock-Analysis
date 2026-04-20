@@ -73,6 +73,7 @@ The dataset contains historical stock prices for Apple, loaded from a CSV file.
 ---
 
 ## 📈 ARIMA Model
+<img width="584" height="314" alt="{A7AF4896-944C-4CF9-B1BF-664F04076C33}" src="https://github.com/user-attachments/assets/9f768518-4d75-4212-b375-f8bcce646544" />
 
 Model configuration: **ARIMA(2,1,2)**
 
@@ -147,6 +148,7 @@ Designed to capture long-term dependencies in time series data.
 ---
 
 ## 🔮 Prophet Forecasting
+<img width="668" height="345" alt="{76B47CD6-9841-4BC0-9750-9CFD762F3ADE}" src="https://github.com/user-attachments/assets/3b837bbb-12a7-4831-923c-2cfde4fae94e" />
 
 * Handles **trend + seasonality (weekly & yearly)**
 * Forecasts future stock prices
