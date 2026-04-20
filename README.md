@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
-![Main Dashboard](<img width="942" height="437" alt="{7F7C4443-4B9E-4E81-A446-132ACAE3B20D}" src="https://github.com/user-attachments/assets/e4238de1-68cf-454b-acd9-43caf68eb14c" />
-)
+![Uploading {7F7C4443-4B9E-4E81-A446-132ACAE3B20D}.png…]()
+
 
 # Apple Stock Analysis & Forecasting 📈
 
