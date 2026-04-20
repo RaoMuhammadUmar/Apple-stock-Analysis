@@ -3,7 +3,7 @@
 This repository provides a comprehensive technical analysis and price prediction of Apple Inc. (AAPL) stock using classical statistical methods, deep learning, and additive models.
 
 ## 🚀 Live Interactive Demo
-**[Experience the AI-Powered Dashboard here](https://nexttoken.co)**
+**[View the Live Dashboard Here](https://nexttoken.app)**
 > *Note: This interactive dashboard was automatically generated from this repository's logic using NextToken's AI Agent.*
 
 ---
@@ -43,8 +43,14 @@ The project includes:
 
 ---
 
+## 💻 Quick Start
+To run the analysis locally:
+1. Clone the repo: `git clone https://github.com`
+2. Install dependencies: `pip install pandas numpy matplotlib seaborn statsmodels prophet tensorflow`
+3. Open `apple stock market prediction.ipynb` in Jupyter or Colab.
+
 ## 🤝 Acknowledgments
-Special thanks to **Alankar Jain** (NextToken) for providing the AI infrastructure to host the interactive version of this analysis.
+Special thanks to **Alankar Jain** (NextToken) for reaching out and providing the AI infrastructure to host the interactive version of this analysis.
 
 ## 📜 Conclusion
 While ARIMA provides a strong statistical baseline, the LSTM model excels at tracking non-linear movements, and Prophet offers the best interpretability regarding market seasonality.
