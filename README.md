@@ -1,5 +1,4 @@
-## 📊 Dashboard Preview
-![Uploading {7F7C4443-4B9E-4E81-A446-132ACAE3B20D}.png…]()
+<img width="942" height="437" alt="{7F7C4443-4B9E-4E81-A446-132ACAE3B20D}" src="https://github.com/user-attachments/assets/b8b96d82-9212-405f-9c73-faf26eef523b" />
 
 
 # Apple Stock Analysis & Forecasting 📈
