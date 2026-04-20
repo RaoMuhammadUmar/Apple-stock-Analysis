@@ -73,7 +73,6 @@ The dataset contains historical stock prices for Apple, loaded from a CSV file.
 ---
 
 ## 📈 ARIMA Model
-<img width="584" height="314" alt="{A7AF4896-944C-4CF9-B1BF-664F04076C33}" src="https://github.com/user-attachments/assets/9f768518-4d75-4212-b375-f8bcce646544" />
 
 Model configuration: **ARIMA(2,1,2)**
 
@@ -148,7 +147,6 @@ Designed to capture long-term dependencies in time series data.
 ---
 
 ## 🔮 Prophet Forecasting
-<img width="668" height="345" alt="{76B47CD6-9841-4BC0-9750-9CFD762F3ADE}" src="https://github.com/user-attachments/assets/3b837bbb-12a7-4831-923c-2cfde4fae94e" />
 
 * Handles **trend + seasonality (weekly & yearly)**
 * Forecasts future stock prices
@@ -174,11 +172,14 @@ This project applied three models for stock prediction:
 * Effective for structured time series
 
 ### 📌 LSTM
+<img width="584" height="314" alt="{A7AF4896-944C-4CF9-B1BF-664F04076C33}" src="https://github.com/user-attachments/assets/6f6485e5-3946-4574-ab4b-1a75cd4f8d75" />
+
 
 * Deep learning model
 * Captures complex, non-linear patterns
 
 ### 📌 Prophet
+<img width="668" height="345" alt="{76B47CD6-9841-4BC0-9750-9CFD762F3ADE}" src="https://github.com/user-attachments/assets/4216de19-1f55-46bf-94fb-974ed6992760" />
 
 * Handles seasonality and trend effectively
 * Easy to interpret and visualize
