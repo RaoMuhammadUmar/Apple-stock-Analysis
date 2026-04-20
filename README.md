@@ -176,21 +176,3 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook
-
-🎯 Key Insights
-Stock data is non-stationary, requiring transformation
-ARIMA works well for linear trends
-LSTM significantly improves performance for nonlinear patterns
-Prophet provides business-friendly interpretability
-🤝 Acknowledgments
-Dataset: Kaggle (Apple Historical Data)
-Dashboard Hosting: Alankar Jain (NextToken)
-📜 Conclusion
-
-This project demonstrates how multiple forecasting techniques complement each other:
-
-📊 ARIMA → Reliable statistical baseline
-🤖 LSTM → Best predictive performance
-📅 Prophet → Best interpretability
-
-Together, they provide a robust hybrid approach to financial forecasting.
