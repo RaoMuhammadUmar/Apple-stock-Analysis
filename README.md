@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+![Main Dashboard](<img width="942" height="437" alt="{7F7C4443-4B9E-4E81-A446-132ACAE3B20D}" src="https://github.com/user-attachments/assets/e4238de1-68cf-454b-acd9-43caf68eb14c" />
+)
+
 # Apple Stock Analysis & Forecasting 📈
 
 This repository provides a comprehensive technical analysis and price prediction of Apple Inc. (AAPL) stock using classical statistical methods, deep learning, and additive models.
